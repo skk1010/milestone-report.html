@@ -1,6 +1,6 @@
 # ui.R
-# Author: Jeffrey M. Hunter
-# Date: 28-JUL-2019
+# Author: Karthik
+# Date: 17-Nov-2020
 # Description: Shiny UI, Coursera Data Science Capstone Final Project
 # GitHub: https://github.com/oraclejavanet/coursera-data-science-capstone
 
